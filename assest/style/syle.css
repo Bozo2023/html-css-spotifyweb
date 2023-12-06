@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    font-family: sans-serif;
+}
+header{
+    border: 1px solid red;
+    height: 50px;
+    width: 90%;
+    background-color: rgb(17, 15, 15);
+    display: flex;
+    text-align: left;
+    text-decoration: none;
+
+}
